@@ -1,0 +1,122 @@
+# Translation of OpenERP Server.
+# This file contains the translation of the following modules:
+# 	* crm_rma_advance_location
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenERP Server 7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-15 13:27+0000\n"
+"PO-Revision-Date: 2015-08-29 13:10+0200\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Poedit 1.8.3\n"
+
+#. module: crm_rma_advance_location
+#: model:ir.actions.act_window,name:crm_rma_advance_location.action_claim_picking_loss
+msgid "Create Products Loss"
+msgstr "Produktverlust anlegen"
+
+#. module: crm_rma_advance_location
+#: model:ir.actions.act_window,name:crm_rma_advance_location.action_used_picking_from_claim_picking
+msgid "Create Incomming Shipment to Refurbish Location"
+msgstr "Eingangslieferung zum Aufbereitungsort erstellen"
+
+#. module: crm_rma_advance_location
+#: view:claim_make_picking_from_picking.wizard:0
+msgid "Locations"
+msgstr "Orte"
+
+#. module: crm_rma_advance_location
+#: view:claim_make_picking_from_picking.wizard:0
+msgid "Select lines for picking"
+msgstr "Kommissionspositionen auswählen"
+
+#. module: crm_rma_advance_location
+#: model:stock.location,name:crm_rma_advance_location.stock_location_breakage_loss
+msgid "Breakage Loss"
+msgstr "Bruchschaden"
+
+#. module: crm_rma_advance_location
+#: model:ir.model,name:crm_rma_advance_location.model_claim_make_picking_wizard
+msgid "Wizard to create pickings from claim lines"
+msgstr "Assistent zur Anlage von Lagerbuchungen aus Beanstandungen"
+
+#. module: crm_rma_advance_location
+#: model:stock.location,name:crm_rma_advance_location.stock_location_carrier_loss
+msgid "Carrier Loss"
+msgstr "Transportschaden"
+
+#. module: crm_rma_advance_location
+#: model:stock.location,name:crm_rma_advance_location.stock_location_mistake_loss
+msgid "Mistake Loss"
+msgstr "Schaden durch sonst. Fehler"
+
+#. module: crm_rma_advance_location
+#: model:ir.actions.act_window,name:crm_rma_advance_location.action_loss_picking_from_claim_picking
+msgid "Create Incomming Shipment to Breakkage Loss Location"
+msgstr "Eingangslieferung zum Lagerort für Bruch erstellen"
+
+#. module: crm_rma_advance_location
+#: view:stock.picking.in:0
+msgid "Product to refurbish stock"
+msgstr "Produkt zum Aufbereitungslager"
+
+#. module: crm_rma_advance_location
+#: model:ir.model,name:crm_rma_advance_location.model_stock_warehouse
+msgid "Warehouse"
+msgstr "Lager"
+
+#. module: crm_rma_advance_location
+#: model:stock.location,name:crm_rma_advance_location.stock_location_rma
+msgid "RMA"
+msgstr "RMA"
+
+#. module: crm_rma_advance_location
+#: model:stock.location,name:crm_rma_advance_location.stock_location_refurbish
+msgid "Refurbish"
+msgstr "Aufbereitung"
+
+#. module: crm_rma_advance_location
+#: view:stock.picking.in:0
+msgid "Product to stock"
+msgstr "Produkt zum Einlagern"
+
+#. module: crm_rma_advance_location
+#: model:ir.actions.act_window,name:crm_rma_advance_location.action_stock_picking_from_claim_picking
+msgid "Create Incomming Shipment to Stock"
+msgstr "Lege Eingangslieferung ins Lager an"
+
+#. module: crm_rma_advance_location
+#: view:claim_make_picking_from_picking.wizard:0
+msgid "Create picking"
+msgstr "Lagerentnahme anlegen"
+
+#. module: crm_rma_advance_location
+#: view:claim_make_picking_from_picking.wizard:0
+msgid "Cancel"
+msgstr "Abbruch"
+
+#. module: crm_rma_advance_location
+#: view:crm.claim:0
+msgid "New Product Loss"
+msgstr "Neuen Produktschaden anlegen"
+
+#. module: crm_rma_advance_location
+#: model:ir.model,name:crm_rma_advance_location.model_claim_make_picking_from_picking_wizard
+msgid "Wizard to create pickings from picking lines"
+msgstr "Assistent zur Anlage von Lagerbuchungen aus Kommissionierpositionen"
+
+#. module: crm_rma_advance_location
+#: view:stock.picking.in:0
+msgid "Product to Loss"
+msgstr "Produkt zum Verlustlager"
+
+#. module: crm_rma_advance_location
+#: view:claim_make_picking_from_picking.wizard:0
+msgid "Select lines to add in picking"
+msgstr "Austauschpositionen in Kommissionierung auswählen"
