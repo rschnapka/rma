@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: ODOO 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-29 12:04+0200\n"
-"PO-Revision-Date: 2015-08-29 12:56+0200\n"
+"PO-Revision-Date: 2015-09-12 15:08+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +30,7 @@ msgstr "Orte"
 #. module: crm_claim_rma
 #: view:claim.line:0
 msgid "Draft and Open Claims"
-msgstr "Beanstandungen in Bearbeitung oder Entwurf"
+msgstr "Reklationen in Bearbeitung oder Entwurf"
 
 #. module: crm_claim_rma
 #: view:claim.line:0
@@ -113,7 +113,7 @@ msgstr "Lagerentnahme erzeugen"
 #. module: crm_claim_rma
 #: view:claim.line:0
 msgid "Claim Line"
-msgstr "Beanstadungsposition"
+msgstr "Reklamationsposition"
 
 #. module: crm_claim_rma
 #: view:crm.claim:0
@@ -129,7 +129,7 @@ msgstr "Ermittele Gewährleistungsstatus"
 #: code:addons/crm_claim_rma/account_invoice.py:77
 #, python-format
 msgid "A refund has already been created for this claim !"
-msgstr "Für diese Beanstandung wurde bereits eine Erstattung durchgeführt!"
+msgstr "Für diese Reklamation wurde bereits eine Erstattung durchgeführt!"
 
 #. module: crm_claim_rma
 #: view:claim.line:0
@@ -146,7 +146,7 @@ msgstr "Ermittele Gewährleistung"
 #: field:stock.picking,claim_id:0 field:stock.picking.in,claim_id:0
 #: field:stock.picking.out,claim_id:0
 msgid "Claim"
-msgstr "Beanstandung"
+msgstr "Reklamation"
 
 #. module: crm_claim_rma
 #: model:crm.case.categ,name:crm_claim_rma.categ_claim13
@@ -239,7 +239,7 @@ msgstr "Retourepositionen"
 #. module: crm_claim_rma
 #: view:claim.line:0
 msgid "Claim n°"
-msgstr "Beanstandungsnr."
+msgstr "Reklamationsnr."
 
 #. module: crm_claim_rma
 #: view:claim.line:0 field:claim.line,state:0
@@ -307,7 +307,7 @@ msgstr ""
 #: field:claim.line,claim_origine:0
 #: model:ir.model.fields,field_description:crm_claim_rma.field_claim_line_claim_origine
 msgid "Claim Subject"
-msgstr "Beanstandungsthema"
+msgstr "Reklamationstitel"
 
 #. module: crm_claim_rma
 #: field:crm.claim,real_cost:0
@@ -476,7 +476,7 @@ msgstr "Lieferanten Gutschriften"
 #: field:claim.line,claim_descr:0
 #: model:ir.model.fields,field_description:crm_claim_rma.field_claim_line_claim_descr
 msgid "Claim description"
-msgstr "Beanstandungsgrund"
+msgstr "Reklamationsgrund"
 
 #. module: crm_claim_rma
 #: field:crm.claim,real_revenue:0
@@ -613,7 +613,7 @@ msgstr "Geliefertes Produkt beschädigt"
 #: model:ir.actions.act_window,name:crm_claim_rma.act_crm_case_claim_lines
 #: model:ir.model.fields,field_description:crm_claim_rma.field_claim_make_picking_wizard_claim_line_ids
 msgid "Claim lines"
-msgstr "Beanstandungspositionen"
+msgstr "Reklamationspositionen"
 
 #. module: crm_claim_rma
 #: code:addons/crm_claim_rma/crm_claim_rma.py:341
